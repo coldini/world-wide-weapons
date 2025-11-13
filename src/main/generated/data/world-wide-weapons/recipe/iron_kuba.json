@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "tag": "c:rods/wooden"
+    },
+    "W": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "pattern": [
+    "WWW",
+    " W ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "world-wide-weapons:iron_kuba"
+  }
+}

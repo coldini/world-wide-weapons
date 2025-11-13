@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "tag": "c:nuggets"
+    },
+    "S": {
+      "tag": "c:rods/wooden"
+    },
+    "W": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "pattern": [
+    "IW ",
+    " W ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "world-wide-weapons:iron_omozo"
+  }
+}

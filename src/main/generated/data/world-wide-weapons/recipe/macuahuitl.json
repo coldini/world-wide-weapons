@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "O": {
+      "tag": "c:obsidians"
+    },
+    "S": {
+      "tag": "c:rods/wooden"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "OWO",
+    "OWO",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "world-wide-weapons:macuahuitl"
+  }
+}
